@@ -34,6 +34,7 @@ Klient w celu wykonania jakiejkolwiek operacji (wysyłanie wiadomości, dodanie 
 Klient będzie regularnie synchronizował wyświetlane dane z serwera.
 Serwer może mieć moderatora który posiada zestaw funkcji pozwalający na usuwanie treści.
 
+ > - ![Czaty prywatne ](https://github.com/Thyvenin/Specyfikacja/blob/main/Diagram.png)
 
 
 
