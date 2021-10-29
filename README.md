@@ -10,9 +10,9 @@ Celem aplikacji jest stworzenie komunikatora na bazie serwera zapewniającego:
  - Czaty prywatne (między userami)
  
  >Szkice interfejsu:
- > - [Tablica](https://github.com/Thyvenin/Specyfikacja/blob/main/PanelTablica.png)
- > - [Czaty grupowe](https://github.com/Thyvenin/Specyfikacja/blob/main/PanelGrupowy.png)
- > - [Czaty prywatne ](https://github.com/Thyvenin/Specyfikacja/blob/main/PanelDM.png)
+ > - ![Tablica](https://github.com/Thyvenin/Specyfikacja/blob/main/PanelTablica.png)
+ > - ![Czaty grupowe](https://github.com/Thyvenin/Specyfikacja/blob/main/PanelGrupowy.png)
+ > - ![Czaty prywatne ](https://github.com/Thyvenin/Specyfikacja/blob/main/PanelDM.png)
 
 Poza użytkownikami, znajdują się moderatorzy  mający wgląd do tablicy/czatów systemu mogący:
 - Usuwać:
